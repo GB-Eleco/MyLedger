@@ -1,0 +1,11 @@
+{
+  "java.jdt.ls.java.home": "D:\\Java\\jdk-20",
+  "java.import.gradle.java.home": "D:\\Java\\jdk-20",
+  "terminal.integrated.env.windows": {
+    "JAVA_HOME": "D:\\Java\\jdk-20",
+    "ANDROID_HOME": "D:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk",
+    "ANDROID_SDK_ROOT": "D:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk",
+    "PATH": "${env:PATH};D:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\platform-tools"
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
